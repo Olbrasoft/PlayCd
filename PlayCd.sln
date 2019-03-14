@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{78BAD2FE-0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olbrasoft.PlayCd.AspNetCore.Mvc.Unit.Tests", "test\Olbrasoft.PlayCd.AspNetCore.Mvc.Unit.Tests\Olbrasoft.PlayCd.AspNetCore.Mvc.Unit.Tests.csproj", "{09082E7B-8C75-4095-ADB6-5996B413FA8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olbrasoft.PlayCd.AspNetCore.Mvc", "src\Olbrasoft.PlayCd.AspNetCore.Mvc\Olbrasoft.PlayCd.AspNetCore.Mvc.csproj", "{21F20EA6-373E-47E6-BA62-C4292FD50406}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{09082E7B-8C75-4095-ADB6-5996B413FA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09082E7B-8C75-4095-ADB6-5996B413FA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09082E7B-8C75-4095-ADB6-5996B413FA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F20EA6-373E-47E6-BA62-C4292FD50406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F20EA6-373E-47E6-BA62-C4292FD50406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F20EA6-373E-47E6-BA62-C4292FD50406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F20EA6-373E-47E6-BA62-C4292FD50406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
